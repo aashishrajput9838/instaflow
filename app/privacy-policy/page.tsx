@@ -55,7 +55,7 @@ export default function PrivacyPolicy() {
             <h2 className="text-2xl font-semibold mt-8 mb-4">5. Contact Us</h2>
             <p>
               If you have any questions about this privacy policy or our privacy practices, please contact us 
-              at our provided support channels.
+              directly via WhatsApp at: <a href="https://wa.me/919319977285" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">+91 9319977285</a>.
             </p>
           </section>
         </div>

@@ -31,7 +31,7 @@ export function Footer() {
               <li><a href="#" className="hover:text-white transition-colors">About</a></li>
               <li><a href="#" className="hover:text-white transition-colors">Blog</a></li>
               <li><a href="#" className="hover:text-white transition-colors">Careers</a></li>
-              <li><a href="#" className="hover:text-white transition-colors">Contact</a></li>
+              <li><a href="https://wa.me/919319977285" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">Contact</a></li>
             </ul>
           </div>
 
