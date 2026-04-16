@@ -38,7 +38,7 @@ export function Footer() {
           <div>
             <h3 className="font-semibold mb-4">Legal</h3>
             <ul className="space-y-2 text-sm text-white/70">
-              <li><a href="#" className="hover:text-white transition-colors">Privacy</a></li>
+              <li><a href="/privacy-policy" className="hover:text-white transition-colors">Privacy</a></li>
               <li><a href="#" className="hover:text-white transition-colors">Terms</a></li>
               <li><a href="#" className="hover:text-white transition-colors">Cookie Policy</a></li>
             </ul>
